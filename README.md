@@ -1,2 +1,2 @@
 # scrapy_study
-python scrapy爬虫框架练习
+python scrapy爬虫框架练习。
